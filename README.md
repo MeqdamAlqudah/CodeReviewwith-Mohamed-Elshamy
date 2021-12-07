@@ -24,7 +24,11 @@ To Do List Application Cool
 
 ### Setup
 
--click the code button in the repo and then download the files as a zip file
+-first make sure that you installed npm in your terminal add this code 
+1- :npm init -y
+2- npm run build
+3- npm start 
+then you can see the server of webpack and you can see your code.
 
 #### To get a local copy up and running follow these simple example steps.
 
@@ -32,6 +36,7 @@ To Do List Application Cool
 - In your local PC, open your terminal in the folder you would like to clone the project.
 - Clone the repo with the command: `git clone (copied link)`; like so: `git clone https://github.com/MeqdamAlqudah/To-Do-List`
 - On the terminal, navigate into the directory like so: `cd To-Do-List`
+
 
 ### Prerequisites
 
