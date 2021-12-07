@@ -1,7 +1,7 @@
 
 # Project Name
 
-To Do List Application
+To Do List Application Cool
 
 # PR
 
