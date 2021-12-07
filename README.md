@@ -29,7 +29,7 @@ To Do List Application Cool
 1- :npm init -y
 2- npm run build
 3- npm start 
-then you can see the server of webpack and you can see your code.
+then you can see the webpack server.
 
 #### To get a local copy up and running follow these simple example steps.
 
